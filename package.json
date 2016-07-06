@@ -1,0 +1,19 @@
+{
+  "name": "system-agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trunk-studio/system-agent-nwjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trunk-studio/system-agent-nwjs/issues"
+  },
+  "homepage": "https://github.com/trunk-studio/system-agent-nwjs#readme"
+}
